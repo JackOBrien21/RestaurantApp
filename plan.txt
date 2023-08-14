@@ -1,0 +1,18 @@
+Restaurant App
+- User has ability to create a login with unique username and password
+- If user doesn't want to login, they can continue as guest
+
+For login:
+- Username must be unique (only one user can hold the same username)
+- password must contain 1 uppercase, 1 lowercase, and 1 special character
+- User has ability to login using google
+
+For User:
+- Can search for restaurants (google maps api?) within x distance (let user choose x) sorted by highest google map rating
+- Can create and save reviews for a restaurant
+- Can quickly look at past reviews (past reviews sorted by user rating)
+
+For guest:
+- Can search for restaurants within x distance (let guest choose x) sorted by highest google map rating
+- Can't leave reviews (must be prompted to login if tries to leave a review)
+
